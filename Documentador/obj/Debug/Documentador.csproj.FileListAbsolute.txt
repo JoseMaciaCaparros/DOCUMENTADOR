@@ -1,0 +1,14 @@
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.exe.config
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.exe
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.pdb
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.csprojResolveAssemblyReference.cache
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.Properties.Resources.resources
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.csproj.GenerateResource.Cache
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.exe
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.pdb
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.AppInfo.resources
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.General.resources
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.exe.manifest
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.application
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.exe.manifest
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.application

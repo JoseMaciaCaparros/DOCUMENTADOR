@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+    <appSettings>
+        <add key="AppName" value="ProjectDoc"/>
+        <add key="AppVersion" value="1.0"/>
+        <add key="AppLastUpdate" value="30/05/2018"/>
+        <add key="AppAuthor" value="Jose Maciá Caparrós"/>
+        <add key="AppAuthorEmail" value="jmcjosele@gmail.com"/>
+        <add key="AppDescription" value="Programa para documentación de proyectos y búsquedas de contenidos."/>
+        <add key="DataBaseServer" value="documentador.mssql.somee.com"/>
+        <add key="DataBaseUser" value="documentador"/>
+        <add key="DataBasePassword" value="Mecs101i"/>
+        <add key="DataBaseDataBase" value="documentador"/>
+    </appSettings>
+    <connectionStrings>
+        <add name="DataBase" connectionString="User ID=documentador;Initial Catalog=documentador;Data Source=documentador.mssql.somee.com;Password=Mecs101i" />
+    </connectionStrings>
+</configuration>
