@@ -12,3 +12,4 @@ C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documen
 C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\bin\Debug\Documentador.application
 C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.exe.manifest
 C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.application
+C:\Users\jmacia\Desktop\Documentador\DOCUMENTADOR\Documentador\obj\Debug\Documentador.Login.resources

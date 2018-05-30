@@ -20,6 +20,7 @@ namespace Documentador
         public General()
         {
             InitializeComponent();
+            //Application.OpenForms[0].Close();
         }
 
         private void PreloadApp(object sender, EventArgs e)
@@ -862,7 +863,11 @@ namespace Documentador
         {
             var confirmResultTask = MessageBox.Show("Se va a cerrar la aplicación.\n\n¿Desea continuar?", "Cerrar Aplicación", MessageBoxButtons.YesNo);
             if (confirmResultTask == DialogResult.Yes)
-                this.Dispose();
+            {
+                Application.OpenForms[0].Dispose();
+                this.Dispose();                
+            }
+
         }
 
         private void ConfirmarSalida(object sender, FormClosingEventArgs e)
